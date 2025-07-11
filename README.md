@@ -1,4 +1,4 @@
-👋 ¡hello, word! me llamo **Xavier Daniel Soria Flores** 🌎  
+👋 ¡hello, word! mi nombre es **Xavier Daniel Soria Flores** 🌎  
 🧠 Estudiante de Ingeniería de Sistemas en la Univversidad Mayor de San Simon| Apasionado por la tecnología, la lógica y el desarrollo de software.
 
 💻 Actualmente trabajando en:
